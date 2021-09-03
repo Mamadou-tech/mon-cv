@@ -1,0 +1,30 @@
+h3 {
+    background-color: deeppink;
+}
+.colonne-1 {
+    
+    
+    text-align: left;
+}
+.colonne-2 {
+    text-align: center;
+    margin-top: -150px;
+}
+.image {
+    text-align: right;
+    margin-top: -160px;
+    
+}
+
+.colonne-3 {
+    text-align: right; 
+    margin-top: -114px;
+}
+.colonne-4 {
+    text-align: right;
+    margin-right: 10px;
+    margin-top: -125px;
+}
+h1{
+    text-align: center;
+}
