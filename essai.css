@@ -1,5 +1,17 @@
+main {
+    height: 900px; width: 1200px;
+    box-shadow: 30px 0px 40px #b15656,
+     -30px 0px 40px rgb(red); 
+    max-width: 900px;
+    margin: auto;
+    border: 1px solid rgb(14, 13, 13);
+
+}
 h3 {
-    background-color: deeppink;
+    background-color: rgb(143, 97, 230);
+}
+h2 {
+    background-color: rgb(136, 93, 214);
 }
 .colonne-1 {
     
@@ -9,6 +21,8 @@ h3 {
 .colonne-2 {
     text-align: center;
     margin-top: -150px;
+    text-align: justify;
+    margin-left: 180px;
 }
 .image {
     text-align: right;
@@ -19,12 +33,44 @@ h3 {
 .colonne-3 {
     text-align: right; 
     margin-top: -114px;
+    text-align: justify;
+    margin-left: 180px;
 }
 .colonne-4 {
     text-align: right;
     margin-right: 10px;
     margin-top: -125px;
+    text-align: justify;
+    margin-left: 180px;
 }
 h1{
     text-align: center;
+}
+.Compétences {
+    text-align: center;
+    margin-top: -119px;
+}
+.Centres {
+    margin-top: 50px ;
+}
+.lecture {
+  text-align: center;
+  margin-top: -40px;
+}
+.voyage {
+    text-align: right;
+    margin-top: -35px;
+}
+.qgis {
+    text-align: right;
+    margin-top: 0px;
+}
+.Formation {
+    margin-bottom: 30px;
+}
+.Expérience {
+    margin-bottom: 0px;
+}
+.exp{
+    margin-top: 0px;
 }
